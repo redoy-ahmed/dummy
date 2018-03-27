@@ -1,5 +1,4 @@
-{
-"signup": {
-    "success": "yes"
-  }
+{ 
+    "login":"yes", 
+    "signup":30 
 }
