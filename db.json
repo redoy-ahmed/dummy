@@ -1,4 +1,4 @@
 { 
     "login":"yes", 
-    "signup":30 
+    "signup":"yes" 
 }
